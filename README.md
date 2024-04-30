@@ -8,7 +8,11 @@ SoulHouse is a music website built using React for the frontend, Flask for the b
 
 ## Preview of the Website
 
-![WhatsApp Image 2024-03-26 at 11 48 47 PM](https://github.com/JainSneha6/Soul-House/assets/126079866/6583cbe0-7855-46af-b68d-e2ce4c46387f)
+![WhatsApp Image 2024-04-25 at 9 56 40 PM](https://github.com/JainSneha6/Soul-House/assets/126079866/dc903cf2-06cd-454d-bb0b-45199ff69442)
+![WhatsApp Image 2024-04-25 at 9 56 43 PM](https://github.com/JainSneha6/Soul-House/assets/126079866/6a445e5e-e914-42b7-a6fc-dfd9564ea864)
+![WhatsApp Image 2024-04-25 at 9 56 43 PM](https://github.com/JainSneha6/Soul-House/assets/126079866/57f7db63-1da5-4d69-a820-e8a59f63fa38)
+![WhatsApp Image 2024-04-25 at 9 57 29 PM](https://github.com/JainSneha6/Soul-House/assets/126079866/08b3eff1-387e-4a10-a925-97a7fc43dc9b)
+
 
 
 ## Project Structure
