@@ -24,9 +24,9 @@ SoulHouse is a music website built using React for the frontend, Flask for the b
 
 To get started with SoulHouse, follow these steps:
 
-1. **Clone the repository**: git clone https://github.com/JainSneha6/SoulHouse.git
+1. **Clone the repository**: git clone https://github.com/JainSneha6/Soul-House.git
    
-3. **Navigate to the project directory**: cd SoulHouse
+3. **Navigate to the project directory**: cd Soul-House
    
 5. **Install frontend dependencies**:
    
