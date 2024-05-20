@@ -69,7 +69,7 @@ For any questions or feedback, feel free to reach out:
 
 - Sneha Jain - [GitHub](https://github.com/JainSneha6) | [LinkedIn](https://www.linkedin.com/in/sneha-jain-473357261/)
 - Siddhartha Chakrabarty - [GitHub](https://github.com/SiddharthaChakrabarty) | [LinkedIn](https://www.linkedin.com/in/siddharthachakrabarty)
-- [Project Repository](https://github.com/JainSneha6/SoulHouse)
+- [Project Repository](https://github.com/JainSneha6/Soul-House)
 
 Enjoy the music! 🎶
 
