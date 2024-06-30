@@ -61,7 +61,7 @@ To get started with SoulHouse, follow these steps:
 
 ## Contributing
 
-Contributions to this project are welcome! If you have suggestions for improvements or would like to contribute new features or analyses, feel free to submit a pull request.
+Contributions to this project are welcome! If you have suggestions for improvements or would like to contribute new features or analyses, feel free to submit a pull request
 
 ## Contact
 
