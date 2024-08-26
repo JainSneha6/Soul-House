@@ -11,7 +11,7 @@ from flask import session, redirect, url_for
 
 app = Flask(__name__)
 CORS(app)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://root:Family123%40@localhost:3306/soulhouse'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+mysqlconnector://root:<Password>@localhost:3306/soulhouse'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
 
