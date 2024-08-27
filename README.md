@@ -59,6 +59,10 @@ To get started with SoulHouse, follow these steps:
 
 14. **Open your web browser** and navigate to `http://localhost:3000` to access the SoulHouse application.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/753ce227-a14b-495b-89d5-685dfc43eb79
+
 ## Contributing
 
 Contributions to this project are welcome! If you have suggestions for improvements or would like to contribute new features or analyses, feel free to submit a pull request
